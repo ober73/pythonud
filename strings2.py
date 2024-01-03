@@ -7,3 +7,8 @@ print(parrot[-11])
 print(parrot[-8])
 print(parrot[-6])
 
+print(parrot[0:6])
+
+print(parrot[10:14])
+
+print(parrot[:])
