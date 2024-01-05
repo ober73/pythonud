@@ -12,3 +12,7 @@ print(parrot[0:6])
 print(parrot[10:14])
 
 print(parrot[:])
+
+print(parrot[-4:-2])
+
+
