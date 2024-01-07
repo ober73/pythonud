@@ -1,0 +1,9 @@
+Python Udemu
+
+
+python idioms
+
+get last item [-1]
+
+or first [:1]
+
